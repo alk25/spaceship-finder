@@ -11,7 +11,7 @@ Installs all dependecies
 Runs the app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### Or visit the live deployed app on [Netlify](https://candid-bavarois-011d0c.netlify.app/)
+### Or visit the live deployed app on [Netlify](https://spaceship-finder.netlify.app/)
 
 ## About the App
 The app is composed of two pages:\
