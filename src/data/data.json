@@ -1,0 +1,64 @@
+{
+    "spaceships": [
+        {
+            "color": "blue",
+            "max speed": 200,
+            "manufactured": "2018-1-1",
+            "laser": true
+        },
+        {
+            "color": "purple",
+            "max speed": 100,
+            "manufactured": "2019-2-4",
+            "laser": false
+        },
+        {
+            "color": "green",
+            "max speed": 60,
+            "manufactured": "2019-7-5",
+            "laser": true
+        },
+        {
+            "color": "orange",
+            "max speed": 65,
+            "manufactured": "2019-7-5",
+            "laser": false
+        },
+        {
+            "color": "green",
+            "max speed": 70,
+            "manufactured": "2018-9-5",
+            "laser": true
+        },
+        {
+            "color": "purple",
+            "max speed": 100,
+            "manufactured": "2020-1-5",
+            "laser": false
+        },
+        {
+            "color": "yellow",
+            "max speed": 90,
+            "manufactured": "2020-1-6",
+            "laser": true
+        },
+        {
+            "color": "orange",
+            "max speed": 150,
+            "manufactured": "2020-1-8",
+            "laser": false
+        },
+        {
+            "color": "orange",
+            "max speed": 50,
+            "manufactured": "2018-1-1",
+            "laser": false
+        },
+        {
+            "color": "blue",
+            "max speed": 50,
+            "manufactured": "2018-1-1",
+            "laser": false
+        }
+    ]
+}
