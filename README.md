@@ -11,10 +11,12 @@ Installs all dependecies
 Runs the app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### Or visit the deployed live app [HERE](https://spaceship-finder.netlify.app/)
+<!-- ### Or visit the deployed live app [HERE](https://spaceship-finder.netlify.app/) -->
 
 ## About the App
 The app is composed of two pages:
 - The Filter page displaying all of the individual filter components
-- The Result page displaying the data retrieved based on the filter parameters\
+- The Result page displaying the data retrieved based on the filter parameters
+
+The app has been tested on Google Chrome 
 
